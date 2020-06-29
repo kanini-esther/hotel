@@ -41,7 +41,7 @@ ul li.active{
 
 }
 .title{
-	top: 450px;
+	top: 300px;
 	color: #fff;
 	position: relative;
 	font-size:250%;
@@ -73,7 +73,7 @@ ul li.active{
 .panel{
 	width:550px; 
 	float: left;
-	height:300px;
+	height:500px;
 	margin-bottom: 50px;
 
 }
@@ -94,8 +94,73 @@ ul li.active{
 	margin-left: 100px;
 }
 
-.footer{
-	background-color: blue;
-	padding-bottom: 200px;
-	margin-top: 100px;
+.clear{
+	clear: both;
+}
+
+/*.paneleight{
+	height: 400px;
+
+}*/
+.footermain-container{
+	background-color: #a575e0;
+	margin: 0 auto;
+	height: 450px;
+	width: 75%;
+	overflow: auto;
+
+}
+.social-media-links{
+	text-decoration: none;
+	color: black;
+	font-size: 
+}
+.third-section {
+	float: left;
+	/*height: 44.44%%;*/
+	width: 30%;
+	padding-left: 100px;
+	/*padding-left: 100px;*/
+
+}
+.follow{
+    float: left;
+	/*height: 33.33%;*/
+	width: 30%;
+
+}
+.contact{
+	float: left;
+	/*height: 33.33%;*/
+	width: 33%;
+	/*padding-left: 100px;*/
+}
+.third-section h3{
+	/*font-size: 150%;*/
+
+}
+.follow h3{
+	font-size: 150%;
+
+
+}
+.contact h3{
+	font-size: 150%;
+
+}
+.third-section p{
+	padding: 10px;
+	font-size: 130%;
+}
+.follow p{
+	padding: 10px;
+	font-size: 130%;
+	position: relative;
+}
+.follow i{
+	padding-right:10px;
+}
+.contact p{
+	padding: 20px;
+	font-size: 130%;
 }
