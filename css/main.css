@@ -85,7 +85,7 @@ ul li.active{
 
 }
 .panel p{
-	color:#a575e0;
+	color:#a575e0; 
 	font-family: 'Roboto', sans-serif;
 	font-size:200%;
 }
@@ -95,7 +95,7 @@ ul li.active{
 }
 
 .clear{
-	clear: both;
+	 
 }
 
 /*.paneleight{
@@ -115,25 +115,27 @@ ul li.active{
 	color: black;
 	font-size: 
 }
-.third-section {
-	float: left;
+/*/*/*.third-section {
+		float: left;
 	/*height: 44.44%%;*/
 	width: 30%;
 	padding-left: 100px;
-	/*padding-left: 100px;*/
+	/*padding-left: 100px;*/*/
 
-}
+}*/
 .follow{
     float: left;
-	/*height: 33.33%;*/
+    display: inline;
+	height: 33.33%;
 	width: 30%;
 
 }
 .contact{
-	float: left;
+	float: right;
+	/*padding-top: 30px;*/
 	/*height: 33.33%;*/
-	width: 33%;
-	/*padding-left: 100px;*/
+	/*width: 33%;*/
+	/*padding-left: 100px;
 }
 .third-section h3{
 	/*font-size: 150%;*/
